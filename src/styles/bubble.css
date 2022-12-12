@@ -1,20 +1,7 @@
-:root {
-  --main-chocolate: #742f1a;
-  --main-purple: #6f4b4c;
-  --main-brown: #ad876c;
-  --main-beige: #efd8ad;
-  --main-light-brown: #eed6b4;
-  --main-grey: #b4ac9c;
-  --main-light-grey: #dcd4cc;
-  --main-dark--green: #5b594c;
-  --main-light--green: #83846a;
-  --main-dark: #40352f;
-}
-
 .bubble1 {
   position: absolute;
-  background-color: var(--main-light--green);
-  opacity: 0.8;
+  background-color: green;
+  opacity: 0.2;
   height: 62px;
   width: 62px;
   border-radius: 50%;

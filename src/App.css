@@ -61,18 +61,18 @@ body p {
     transform: rotate(360deg);
   }
 }
-
 .index-item1 {
-  border-top: 20px solid var(--main-brown);
+  border-top: 20px solid var(--main-chocolate);
 }
 
 .index-item2 {
-  border-top: 20px solid var(--main-light-grey);
+  border-top: 20px solid var(--main-brown);
 }
 
 .index-item3 {
-  border-top: 20px solid beige;
+  border-top: 20px solid var(--main-light-brown);
 }
+
 .image-index {
   height: 240px;
   width: auto;
