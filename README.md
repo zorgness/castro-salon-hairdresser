@@ -2,18 +2,6 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# castro-salon-haidresser(still in process)
-
-## Hairdresser web site 
-
-### Beta version:
-https://castro-hairdresser-fron-web.herokuapp.com/
-
-* Back-end: Symfony V6 Api/Platform https://github.com/zorgness/castro-salon
-* Front-end: React JS 
-* Object storage: AWS S3
-
-<img src="https://i.ibb.co/THGtndZ/Capture-d-e-cran-2022-10-17-a-19-26-04.png" alt="Capture-d-e-cran-2022-10-17-a-19-26-04" border="0"></a><br /><a target='_blank' href='https://fr.imgbb.com/'>
 
 
 ## Available Scripts
